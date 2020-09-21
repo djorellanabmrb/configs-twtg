@@ -23,3 +23,10 @@ these are environments to connect to SQL:
 ## API
 these are environment general of your service.
 * API_PORT: out port
+## Mongo
+These are enviroment to connect your mongo
+* MONGO_USERNAME: username to connect your mongo
+* MONGO_PASSWORD: password of the username.
+* MONGO_DATABASE: name of your database no sql
+* MONGO_HOST: public host to accesss your mongo
+* MONGO_PORT: port to access your mongo

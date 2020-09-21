@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/djorellanabmrb/configs-twtg/issues"
   },
-  "homepage": "https://github.com/djorellanabmrb/configs-twtg#readme"
+  "homepage": "https://github.com/djorellanabmrb/configs-twtg#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }

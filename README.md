@@ -30,3 +30,8 @@ These are enviroment to connect your mongo
 * MONGO_DATABASE: name of your database no sql
 * MONGO_HOST: public host to accesss your mongo
 * MONGO_PORT: port to access your mongo
+## Pagination
+these are environments general to create an pagination:
+* PAGINATION_SKIP: Offset by default
+* PAGINATION_LIMIT: count of registers
+* PAGINATION_SORT: ASC or DESC

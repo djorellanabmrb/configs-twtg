@@ -22,7 +22,9 @@ these are environments to connect to SQL:
 * SEQUELIZE_PORT: Port to connect your database.
 ## API
 these are environment general of your service.
-* API_PORT: out port
+* API_AUTHENTICATION_PORT: port default the authentication
+* API_CATALOGS_PORT: port default by catalogs
+* API_SECURITY_PORT: port default by security
 ## Mongo
 These are enviroment to connect your mongo
 * MONGO_USERNAME: username to connect your mongo

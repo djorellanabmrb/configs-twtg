@@ -10,5 +10,9 @@ module.exports = {
     security:{
         path: "/security",
         port: process.env.API_SECURITY_PORT || 8082
+    },
+    company:{
+        path: "/companies",
+        port: process.env.API_COMPANY_PORT || 8083
     }
 }

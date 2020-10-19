@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/djorellanabmrb/configs-twtg.git"
+    "url": "git+https://github.com/twowheelstogo/backend-configs-twtg.git"
   },
   "author": "djorellanab",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/djorellanabmrb/configs-twtg/issues"
+    "url": "https://github.com/twowheelstogo/backend-configs-twtg/issues"
   },
-  "homepage": "https://github.com/djorellanabmrb/configs-twtg#readme",
+  "homepage": "https://github.com/twowheelstogo/backend-configs-twtg#readme",
   "dependencies": {
     "dotenv": "^8.2.0"
   }

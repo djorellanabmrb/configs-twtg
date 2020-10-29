@@ -1,10 +1,10 @@
 module.exports = {
     authentication:{
-        path: "/authentication",
+        path: "/authentication-service",
         port: process.env.API_AUTHENTICATION_PORT || 8080
     },
     catalogs:{
-        path: "/catalogs",
+        path: "/catalogs-service",
         port: process.env.API_CATALOGS_PORT || 8081
     },
     security:{
@@ -12,7 +12,7 @@ module.exports = {
         port: process.env.API_SECURITY_PORT || 8082
     },
     company:{
-        path: "/companies",
+        path: "/companies-service",
         port: process.env.API_COMPANY_PORT || 8083
     }
 }

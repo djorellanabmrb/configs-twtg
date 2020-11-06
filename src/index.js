@@ -1,4 +1,5 @@
 module.exports = {
+    AirtableConfig: require("./airtable.config"),
     ApiConfig: require("./api.config"),
     CryptConfig: require("./crypt.config"),
     FirebaseConfig: require("./firebase.config"),

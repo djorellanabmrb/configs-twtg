@@ -14,5 +14,9 @@ module.exports = {
     company:{
         path: "/companies-service",
         port: process.env.API_COMPANY_PORT || 8083
+    },
+    deliveries:{
+        path: "/deliveries-service",
+        port: process.env.API_DELIVERIES_PORT || 8084
     }
 }

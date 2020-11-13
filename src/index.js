@@ -5,5 +5,6 @@ module.exports = {
     JwtConfig: require("./jwt.config"),
     MongoConfig: require("./mongo.config"),
     PaginationConfig: require("./pagination.config"),
-    SequelizeConfig: require("./sequelize.config")
+    SequelizeConfig: require("./sequelize.config"),
+    ServerConfig: require("./server.config")
 }

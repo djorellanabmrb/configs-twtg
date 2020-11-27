@@ -6,5 +6,6 @@ module.exports = {
     MongoConfig: require("./mongo.config"),
     PaginationConfig: require("./pagination.config"),
     SequelizeConfig: require("./sequelize.config"),
-    ServerConfig: require("./server.config")
+    ServerConfig: require("./server.config"),
+    GoogleConfig: require("./google.config")
 }

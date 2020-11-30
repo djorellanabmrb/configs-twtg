@@ -2,6 +2,7 @@ module.exports = {
     ApiConfig: require("./api.config"),
     CryptConfig: require("./crypt.config"),
     FirebaseConfig: require("./firebase.config"),
+    GoogleMapsConfig: require("./google-maps.config"),
     JwtConfig: require("./jwt.config"),
     MongoConfig: require("./mongo.config"),
     PaginationConfig: require("./pagination.config"),

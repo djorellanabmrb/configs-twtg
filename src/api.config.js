@@ -17,7 +17,6 @@ module.exports = {
     },
     deliveries:{
         path: "/deliveries-service",
-        port: process.env.API_DELIVERIES_PORT || 8084,
-        token: "E361ECC31F2AAC2066A3103D3B14DC63B5984B028F9F2D09DEE67460CE2702BC81673ACF58109B553324852C62A227D9A75D4C2F686580270FE143048F47C33C"
+        port: process.env.API_DELIVERY_PORT || 8084
     }
 }

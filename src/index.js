@@ -8,5 +8,6 @@ module.exports = {
     PaginationConfig: require("./pagination.config"),
     SequelizeConfig: require("./sequelize.config"),
     ServerConfig: require("./server.config"),
-    GoogleConfig: require("./google.config.js")
+    GoogleConfig: require("./google.config.js"),
+    RedisConfig: require("./redis.config")
 }

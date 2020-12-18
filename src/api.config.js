@@ -18,5 +18,9 @@ module.exports = {
     deliveries:{
         path: "/deliveries-service",
         port: process.env.API_DELIVERY_PORT || 8084
+    },
+    order:{
+        path: "/orders-service",
+        port: process.env.API_ORDER_PORT || 8085
     }
 }

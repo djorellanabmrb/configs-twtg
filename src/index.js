@@ -9,5 +9,6 @@ module.exports = {
     SequelizeConfig: require("./sequelize.config"),
     ServerConfig: require("./server.config"),
     GoogleConfig: require("./google.config.js"),
-    RedisConfig: require("./redis.config")
+    RedisConfig: require("./redis.config"),
+    EmailConfig: require("./email.config")
 }
